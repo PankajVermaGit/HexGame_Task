@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="23" Column="45" />
+      <File FileName="Assets\Scripts\Interfaces.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\HexManager.cs" Line="46" Column="4" />
+      <File FileName="Assets\Scripts\HexData.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\GameUtility.cs" Line="20" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
